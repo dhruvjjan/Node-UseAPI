@@ -118,4 +118,42 @@ Deletes a user based on ID.
 
 ## Github Repository
 
-https://github.com/dhruvjjan/Node-UseAPI.git
+[https://github.com/dhruvjjan/Node-UseAPI.git](https://github.com/dhruvjjan/Node-UseAPI.git)
+
+---
+
+## 🛢 MongoDB Integration
+This version uses MongoDB and Mongoose for storing user data.
+
+### 🧪 MongoDB Screenshots
+
+ 📍 GET `/users` – Fetch All Users
+
+![GET All Users](/screenshots/mdb%20get%20all.png)
+
+---
+
+ 📍 GET `/users/:id` – Fetch User by ID
+
+📸 Screenshot:
+
+![GET User by ID](/screenshots/mdb%20get%20user.png
+
+---
+ 📍 POST `/user` – Create a New User
+
+![POST Create User](/screenshots/mdb%20post.png)
+
+---
+
+ 📍 PUT `/user/:id` – Update a User
+
+![PUT Update User](/screenshots/mdb%20put.png)
+
+---
+
+ 📍 DELETE `/user/:id` – Delete a User
+
+![DELETE User](/screenshots/mdb%20delete.png)
+
+---
